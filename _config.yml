@@ -9,12 +9,12 @@
 title: Nathan Vedal
 
 # Your name to show in the footer
-author: Nathan Vedal
+#author: Nathan Vedal
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
+  Home: "index.html"
   Research: "research"
   
 
