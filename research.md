@@ -42,7 +42,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 This article examines the notorious, but little-studied Manchu translation of Jinpingmei. I argue that the translation embraces multiple levels of translingual literacy, embodied in the philological reading aids provided throughout the text. The forms of commentary contained within require a reconsideration of Manchu reading practices and allow for a comparison with approaches to Sinitic writing and vernacular reading across early modern East Asia.  
   </p>
 <li>
-<a href="https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/from-tradition-to-community-the-rise-of-contemporary-knowledge-in-late-imperial-china/30ADE583D9489E807980184EF168F8C5/“> "From Tradition to Community: The Rise of Contemporary Knowledge in Late Imperial China,” </a> <i>Journal of Asian Studies</i>. 79.1 (2020): 77–101.
+<a href="https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/from-tradition-to-community-the-rise-of-contemporary-knowledge-in-late-imperial-china/30ADE583D9489E807980184EF168F8C5/"> "From Tradition to Community: The Rise of Contemporary Knowledge in Late Imperial China,” </a> <i>Journal of Asian Studies</i>. 79.1 (2020): 77–101.
 </li>
  <br>  
 <li>
