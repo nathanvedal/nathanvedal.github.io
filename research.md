@@ -19,6 +19,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
   <li>
   article on Fan Zongshi 樊宗師 and the history of obscurity as a Chinese literary value.
 </li>
+</ul>
 
   <br>
 <p>
