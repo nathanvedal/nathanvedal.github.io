@@ -25,20 +25,18 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 <p>
 <b>Published Work</b>
 </p>
-<br>
 <p>
   <u>Book</u>
   </p>
 
 <i>The Culture of Language in Ming China: Sound, Script, and the Redefinition of Boundaries of Knowledge</i>. Columbia University Press, 2022. <a href="https://cup.columbia.edu/book/the-culture-of-language-in-ming-china/9780231200752/"> Website</a>. 
 
-<br>
 
   <u>Articles</u>
 
 <ul>
 <li>
-  “The Manchu Reading of <i>Jinpingmei</i>: Glossing, Encyclopedism, and Translingual Practices in Early-Eighteenth Century China,” <i>Late Imperial China</i>. 42.2 (2021): 1–48.
+ <a href="https://muse.jhu.edu/article/841263/"> “The Manchu Reading of <i>Jinpingmei</i>: Glossing, Encyclopedism, and Translingual Practices in Early-Eighteenth Century China,”</a> <i>Late Imperial China</i>. 42.2 (2021): 1–48.
 </li>
   <br>
 <p>
