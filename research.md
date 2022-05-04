@@ -29,7 +29,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
   <u>Book</u>
   </p>
 
-<i>The Culture of Language in Ming China: Sound, Script, and the Redefinition of Boundaries of Knowledge</i>. Columbia University Press, 2022. <a href="https://cup.columbia.edu/book/the-culture-of-language-in-ming-china/9780231200752/"> Website</a>. 
+<a href="https://cup.columbia.edu/book/the-culture-of-language-in-ming-china/9780231200752/"> <i>The Culture of Language in Ming China: Sound, Script, and the Redefinition of Boundaries of Knowledge</i>.</a> Columbia University Press, 2022. 
 
 
   <u>Articles</u>
