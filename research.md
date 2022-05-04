@@ -33,9 +33,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 
 <br>
 
-<p>
   <u>Articles</u>
-</p>
 
 <ul>
 <li>
