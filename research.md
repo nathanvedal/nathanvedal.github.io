@@ -42,7 +42,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 </li>
   <br>
 <p>
-&nbspThis article examines the notorious, but little-studied Manchu translation of Jinpingmei. I argue that the translation embraces multiple levels of translingual literacy, embodied in the philological reading aids provided throughout the text. The forms of commentary contained within require a reconsideration of Manchu reading practices and allow for a comparison with approaches to Sinitic writing and vernacular reading across early modern East Asia.  
+This article examines the notorious, but little-studied Manchu translation of Jinpingmei. I argue that the translation embraces multiple levels of translingual literacy, embodied in the philological reading aids provided throughout the text. The forms of commentary contained within require a reconsideration of Manchu reading practices and allow for a comparison with approaches to Sinitic writing and vernacular reading across early modern East Asia.  
   </p>
 <br>  
 <li>
