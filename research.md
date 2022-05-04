@@ -38,9 +38,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 <li>
   “The Manchu Reading of <i>Jinpingmei</i>: Glossing, Encyclopedism, and Translingual Practices in Early-Eighteenth Century China,” <i>Late Imperial China</i>. 42.2 (2021): 1–48.
 </li>
-<&nbsp>This article examines the notorious, but little-studied Manchu translation of Jinpingmei. I argue that the translation embraces multiple levels of translingual literacy, embodied in the philological reading aids provided throughout the text. The forms of commentary contained within require a reconsideration of Manchu reading practices and allow for a comparison with approaches to Sinitic writing and vernacular reading across early modern East Asia.  
-
-
+<p>&nbspThis article examines the notorious, but little-studied Manchu translation of Jinpingmei. I argue that the translation embraces multiple levels of translingual literacy, embodied in the philological reading aids provided throughout the text. The forms of commentary contained within require a reconsideration of Manchu reading practices and allow for a comparison with approaches to Sinitic writing and vernacular reading across early modern East Asia.  </p>
 <br>  
 <li>
 “From Tradition to Community: The Rise of Contemporary Knowledge in Late Imperial China,” <i>Journal of Asian Studies</i>. 79.1 (2020): 77–101.
