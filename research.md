@@ -44,11 +44,16 @@ This article examines the notorious, but little-studied Manchu translation of Ji
 <li>
 <a href="https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/from-tradition-to-community-the-rise-of-contemporary-knowledge-in-late-imperial-china/30ADE583D9489E807980184EF168F8C5/"> “From Tradition to Community: The Rise of Contemporary Knowledge in Late Imperial China,” </a> <i>Journal of Asian Studies</i>. 79.1 (2020): 77–101.
 </li>
- <br>  
+ <p>
+This article investigates the emergence of a new emphasis on contemporary specialized knowledge in sixteenth-century China. During this period, sources of authority such as antiquity and the court came to lose their elevated status. As a result, scholars increasingly saw the expertise of a contemporary disciplinary community as a superior standard for validating knowledge. This trend appeared in scholarly collaboration and the citation of contemporaries, as well as new kinds of paratextual materials such as lists of works cited and literature reviews. These findings on new intellectual communities in the sixteenth century call for a reassessment of the better-documented shifts in East Asian intellectual culture from the mid-eighteenth century to the present.
+  </p>
 <li>
 <a href="https://muse.jhu.edu/article/705115/"> “New Scripts for All Sounds: Cosmology and Universal Phonetic Notation Systems in Late Imperial China,” </a> <i>Harvard Journal of Asiatic Studies</i>. 78.1 (2018): 1–46.
 </li>
- <br>   
+ <p>
+In this article I argue that cosmological methods, and the debates they inspired, were a major source of innovation in phonological scholarship during the late Ming. Sixteenth- and seventeenth-century scholars strove to document the scope of possible sounds existing in the universe. Realizing the Chinese script was insufficient to fully record them, they explored new notation systems to comprehensively describe sound. Although competing contemporaneous approaches called for analyzing phonology according to regional or historical differences, Ming cosmologists asserted a significant alternative that they believed overcame limits of place and time. This case study suggests a need to rethink the impact of Ming scholars on Chinese intellectual history and on the history of writing in China.
+  </p>
+
 <li>
 <a href="https://www.tandfonline.com/doi/abs/10.1179/0737503415Z.00000000014?journalCode=ytng20/"> “Never Taking a Shortcut: Examination Poetry of the Tang Dynasty,” </a> <i>Tang Studies</i>. 33 (2015): 38–61.
 </li>
