@@ -36,7 +36,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 
 <ul>
 <li>
- <a href="https://muse.jhu.edu/article/841263/"> “The Manchu Reading of <i>Jinpingmei</i>: Glossing, Encyclopedism, and Translingual Practices in Early-Eighteenth Century China,”</a> <i>Late Imperial China</i>. 42.2 (2021): 1–48.
+ <a href="https://muse.jhu.edu/article/841263/"> “The Manchu Reading of <i>Jinpingmei</i>: Glossing, Encyclopedism, and Translingual Practices in Early Eighteenth-Century China,”</a> <i>Late Imperial China</i>. 42.2 (2021): 1–48.
 </li>
 <p>
   This article examines the notorious, but little-studied Manchu translation of <i>Jinpingmei</i>. I argue that the translation embraces multiple levels of translingual literacy, embodied in the philological reading aids provided throughout the text. The forms of commentary contained within require a reconsideration of Manchu reading practices and allow for a comparison with approaches to Sinitic writing and vernacular reading across early modern East Asia.  
