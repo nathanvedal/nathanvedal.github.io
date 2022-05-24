@@ -13,7 +13,7 @@ Updates on ongoing research and summary of previous work can be found here. Plea
 
 <ul>
 <li>
-  article on the Manchu civil service translation examination and the literary-intellectual culture of bannermen in the eighteenth and nineteenth centuries.
+  article on the Manchu civil service translation examination and the literary-intellectual culture of bannermen in the eighteenth and nineteenth centuries. (submitted)
 </li>
 <br>  
   <li>
