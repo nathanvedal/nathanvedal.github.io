@@ -261,3 +261,5 @@ plugins:
 
 plugins:
   - jekyll-seo-tag
+
+google_site_verification
